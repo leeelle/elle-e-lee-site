@@ -1,0 +1,11 @@
+# Project images and video are not published in this repository.
+# The live site serves them from these folders.
+assets/
+og/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+
+# Site export archives
+*.zip
